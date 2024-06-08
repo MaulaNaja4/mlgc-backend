@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raihanromzi/backend-server-mlgc.git"
+    "url": "git+https://github.com/MaulaNaja4/mlgc-backend.git"
   },
-  "author": "Raihan Romzi R",
+  "author": "Sef Sofa M",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/raihanromzi/backend-server-mlgc/issues"
+    "url": "https://github.com/MaulaNaja4/mlgc-backend.git/issues"
   },
-  "homepage": "https://github.com/raihanromzi/backend-server-mlgc#readme",
+  "homepage": "https://github.com/MaulaNaja4/mlgc-backend.git#readme",
   "dependencies": {
     "@google-cloud/firestore": "^7.6.0",
     "@hapi/hapi": "^21.3.9",
